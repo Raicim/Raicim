@@ -1,6 +1,5 @@
 Hi there , I'm Rai
 
-[Acerhizm](https://github.com/acerhizmq)
 
 ![image](https://github.com/Raicim/Raicim/assets/140258803/0ef03aaa-3d9f-4456-bcc7-74faddeba29c)
 
