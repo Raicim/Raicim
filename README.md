@@ -1,5 +1,5 @@
 Hi there , I'm Rai
-https://cdn.discordapp.com/attachments/1132315072170053732/1132315108631138395/githubrepo.png.jpg
+![image](https://github.com/Raicim/Raicim/assets/140258803/0ef03aaa-3d9f-4456-bcc7-74faddeba29c)
 
 Langauges I Know:
 
